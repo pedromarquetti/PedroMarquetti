@@ -4,11 +4,17 @@ My name is Pedro, I like biology and coding, welcome to my github page!
 
 ###  My stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=PedroMarquetti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=PedroMarquetti&show_icons=true&theme=dark)](https://github.com/PedroMarquetti/github-readme-stats)
 
 ### Languages I speak
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarquetti&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarquetti&theme=dark)](https://github.com/PedroMarquetti/github-readme-stats)
+
+### Some projects
+
+<a href="https://github.com/PedroMarquetti/fii_api"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/PedroMarquetti/calculator"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="https://github.com/PedroMarquetti/React-notes-app"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" height="40" style="vertical-align:top; margin:4px"></a>
 
 
 <!--
