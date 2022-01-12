@@ -2,10 +2,13 @@
 
 My name is Pedro, I like biology and coding, welcome to my github page!
 
-### Stats
+###  My stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=PedroMarquetti)](https://github.com/anuraghazra/github-readme-stats)
+[![Stats](https://github-readme-stats.vercel.app/api?username=PedroMarquetti&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+### Languages I speak
+
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarquetti&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
