@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is Pedro, I like biology and coding, welcome to my github page!
+
+### Stats
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=PedroMarquetti)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **PedroMarquetti/PedroMarquetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
