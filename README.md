@@ -8,7 +8,7 @@ My name is Pedro, I like biology and coding, welcome to my github page!
 
 ### Languages I speak
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarquetti&theme=dark)](https://github.com/PedroMarquetti)
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroMarquetti&theme=dark&langs_count=8)](https://github.com/PedroMarquetti)
 
 ### Some projects
 
