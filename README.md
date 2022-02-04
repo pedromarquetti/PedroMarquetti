@@ -16,7 +16,7 @@ My name is Pedro, I like biology and coding, welcome to my github page!
 <a href="https://github.com/PedroMarquetti/calculator"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px"></a>
 <a href="https://github.com/PedroMarquetti/React-notes-app"><img src="https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white" alt="TypeScript" height="40" style="vertical-align:top; margin:4px"></a>
 
-### WHat i'm doing right now
+### What i'm doing right now
 
 - Always learning and improving my programming skills
 - Looking for a job to gain more experience as a developer
