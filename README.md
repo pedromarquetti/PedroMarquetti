@@ -19,8 +19,8 @@ My name is Pedro, I like biology and coding, welcome to my github page!
 
 ### What i'm doing right now
 
-- Always learning and improving my programming skills
-- Looking for a job to gain more experience as a developer
+- Always learning and improving. If you find any problems with my code, let me know please)
+
 
 [How can you get these stats? Here](https://github.com/anuraghazra/github-readme-stats "Github stats").
 
