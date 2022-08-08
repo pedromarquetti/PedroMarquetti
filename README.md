@@ -4,11 +4,11 @@ My name is Pedro, I like biology and coding, welcome to my github page!
 
 ###  My stats
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=pedromarquetti&show_icons=true&theme=dark)](https://github.com/PedroMarquetti "Hi there")
+[![Stats](https://github-readme-stats.vercel.app/api?username=pedromarquetti&show_icons=true&theme=dark&include_all_commits=true)](https://github.com/PedroMarquetti "Hi there")
 
 ### Languages I speak
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarquetti&theme=dark&langs_count=8)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarquetti&theme=dark&langs_count=8&hide=Vim%20Script,dockerfile)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
 
 ### Some projects
 
