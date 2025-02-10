@@ -8,7 +8,7 @@ My name is Pedro, I like biology and coding, welcome to my github page!
 
 ### Languages I speak
 
-[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarquetti&theme=dark&langs_count=8&hide=Vim%20Script,dockerfile)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
+[![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromarquetti&theme=dark&langs_count=8&hide=Vim%20Script,dockerfile,PLpgSQL)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
 
 ### Some projects
 
