@@ -16,6 +16,13 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 ---
 ## Projects
 
+[![Senders](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Fsend-rs&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/send-rs)
+
+* **What it is:** A TUI app for WhatsApp + Telegram Messaging.
+* **Tech Stack:** Pure Rust, using [Ratatui](https://ratatui.rs/) as the front end.
+* **Key Feature:** Modular app that supports telegram and whatsapp, while exposing traits for implementing more in the future.
+---
+
 [![recipes-app](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Frecipes-app&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/recipes-app)
 
 * **What it is:** A fullstack application combining a robust Rust backend with a modern frontend architecture.
