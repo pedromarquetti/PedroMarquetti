@@ -16,6 +16,13 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 ---
 ## Projects
 
+[![Meu Preço](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Fmeu-preco&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/meu-preco)
+
+* **What it is:** An API built in Golang.
+* **Tech Stack:** Pure Go + PostgreSQL.
+* **Key Feature:** An API that receives a Brazilian supermarket receipt -> parses -> logs the product price. 
+---
+
 [![Senders](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Fsend-rs&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/send-rs)
 
 * **What it is:** A TUI app for WhatsApp + Telegram Messaging.
