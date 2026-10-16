@@ -14,6 +14,7 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 * **Focus Areas:** Software Testing (QA), Information Security, Process Automation.
 
 ---
+
 ## Projects
 
 [![Meu Preço](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Fmeu-preco&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/meu-preco)
