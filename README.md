@@ -66,7 +66,7 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 
 ### Languages
 
-[![Langs](https://github-stats-extended.vercel.app/api/top-langs?username=pedromarquetti&langs_count=10&theme=transparent)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
+[![Langs](https://github-stats-extended.vercel.app/api/top-langs?username=pedromarquetti&langs_count=10&theme=transparent&hide=css,html)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
 
 
 
