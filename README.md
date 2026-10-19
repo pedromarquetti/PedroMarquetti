@@ -9,9 +9,9 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 
 ## Technical Ecosystem
 
-* **Backend & Systems:** Python (Flask, Scraping), JavaScript/TypeScript (React), Rust, Shell Scripting (Bash).
+* **Backend & Systems:** Python (Flask, Scraping), JavaScript/TypeScript (React), Rust (Ratatui, Reqwest, Diesel), Shell Scripting (Bash).
 * **Databases & Infra:** PostgreSQL, SQL, Docker & Docker Compose, Linux/Windows Server Administration.
-* **Focus Areas:** Software Testing (QA), Information Security, Process Automation.
+* **Focus Areas:** Software Development, Software Testing (QA), Information Security, Process Automation.
 
 ---
 
