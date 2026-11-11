@@ -17,6 +17,13 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 
 ## Projects
 
+[![Meu Preço - Flutter](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Fmeu-preco-flutter&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/meu-preco-flutter)
+
+* **What it is:** The front end for the [Meu Preço API](https://github.com/pedromarquetti/meu-preco)
+* **Tech Stack:** Flutter/Dart.
+* **Key Feature:** Full Front end implementation for the API, with APK builds for android and GH pages. 
+---
+
 [![Meu Preço](https://github-stats-extended.vercel.app/api/pin?username=pedromarquetti&repo=pedromarquetti%2Fmeu-preco&show_owner=true&theme=transparent)](https://github.com/pedromarquetti/meu-preco)
 
 * **What it is:** An API built in Golang.
@@ -64,7 +71,7 @@ An analytical problem-solver transitioning from Biomedicine to Information Techn
 ## My stats
 [![My stats](https://github-stats-extended.vercel.app/api?username=pedromarquetti&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=pedromarquetti&rank_icon=github&custom_title=My%20Github%20Stats&show_icons=true&include_all_commits=true&theme=transparent)
 
-### Languages
+---
 
 [![Langs](https://github-stats-extended.vercel.app/api/top-langs?username=pedromarquetti&langs_count=10&theme=transparent&hide=css,html)](https://github.com/pedromarquetti "I started learning Python because of Mr Robot.. then got addicted to learning")
 
